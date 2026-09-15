@@ -6,9 +6,9 @@
 // @author       HAMO
 // @match        https://www.berlinovo.de/en/apartments/search*
 // @run-at       document-idle
+// @license MIT
 // @grant        none
 // @noframes
-// @license MIT
 // ==/UserScript==
 
 (() => {
