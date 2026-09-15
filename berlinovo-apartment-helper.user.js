@@ -8,6 +8,7 @@
 // @run-at       document-idle
 // @grant        none
 // @noframes
+// @license MIT
 // ==/UserScript==
 
 (() => {
